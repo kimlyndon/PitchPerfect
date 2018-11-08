@@ -5,7 +5,7 @@
 
 **Multiple Views**
   There are 2 view controller scenes: A RecordingSounds scene, and a PlaySounds scene. 
-  The recording scene consists of a record button and mic image.
+  The recording scene consists of a record button (mic) and a stop button.
   The playback scene displays the icons for each sound for which you are able to playback your recording. 
   
 **IBActions and Outlets**
@@ -19,6 +19,21 @@
   
   ## Libraries
   Pitch Perfect utilizes the UIKit and AVFoundation. The application uses code from AVFoundation to record sounds from the microphone (AVAudioRecorder) and play recorded audio with effects (AVAudioPlayer, AVAudioEngine).
+  
+  ## How to View:
+  1. Clone or download project.
+  2. Open PitchPerfect.xcodeproj
+  3. Click the play button located in the upper left portion of xcode. 
+  
+  ## How to Play:
+  1. Press the record button 
+  2. Say something!
+  3. Press the stop button
+  4. Choose a playback method
+  5. Laught at yourself :)
+  
+  ## License
+  MIT License
   
   
 
