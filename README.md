@@ -17,7 +17,7 @@
 **Auto Layout and Buttons**
   Storyboard is used to set the views and the buttons. StackViews are implemented for an aesthetic look to each view controller scene. 
   
-  ##Libraries
+  ## Libraries
   Pitch Perfect utilizes the UIKit and AVFoundation. The application uses code from AVFoundation to record sounds from the microphone (AVAudioRecorder) and play recorded audio with effects (AVAudioPlayer, AVAudioEngine).
   
   
